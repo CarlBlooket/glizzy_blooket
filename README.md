@@ -6,7 +6,7 @@ All of the cheats are based on a game mode.
 **All these bookmarklets are also at: https://schoolcheats.net/blooket**
 
 # Video Tutorial
-
+https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-8637-cb6bde2a42da.mp4
 
 
 # Bookmarklet tutorial:
