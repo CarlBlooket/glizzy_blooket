@@ -3,6 +3,8 @@
 # Blooket-Hack
 All of the cheats are based on a game mode.
 
+People who are developers and want to make something for blooket I recommend checking out: https://github.com/glixzzy/blooket-wrapper
+
 **All these bookmarklets are also at: https://schoolcheats.net/blooket**
 
 # Video Tutorial
