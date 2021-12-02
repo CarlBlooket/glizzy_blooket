@@ -12,8 +12,6 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
         price = ({
             blizzard: 25,
             spooky: 25,
-            blizzard: 25,
-            spooky: 25,
             aquatic: 25,
             bot: 20,
             space: 20,
