@@ -10,12 +10,12 @@ This cheat only works in factory game mode!
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2ZhY3RvcnlHZXRDYXNoLmpz')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9mYWN0b3J5R2V0Q2FzaC5qc29u')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 # getMegaBot.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2ZhY3RvcnlHZXRNZWdhQm90Lmpz')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9mYWN0b3J5R2V0TWVnYUJvdC5qc29u')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
