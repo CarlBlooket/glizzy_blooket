@@ -5,9 +5,7 @@ All of the hacks are based on a game mode.
 
 People who are developers and want to make something for blooket I recommend checking out: https://github.com/glixzzy/blooket-wrapper
 
-**All these bookmarklets are also at: https://schoolcheats.net/blooket**
-
-iOS users can also get these as a [shortcut.](Blooket%20Hacker.shortcut) Once you add it, you should be able to tap the "Blooket Hacker" button after tapping the Share button and scrolling down on the Blooket website.
+**All these hacks are also at: https://schoolcheats.net/blooket**
 
 # Video Tutorial
 https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-8637-cb6bde2a42da.mp4
