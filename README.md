@@ -1,6 +1,6 @@
 **Join the discord server: https://discord.gg/K5xUbuDqmG**
 
-### Blooket Hacks
+# Blooket Hacks
 
 All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixzzy/blooket-hack/issues).
 
