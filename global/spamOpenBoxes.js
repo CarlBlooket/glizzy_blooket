@@ -54,4 +54,4 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
             alert('Results:\n' + Object.entries(count).map(x => `    ${x[1]} ${x[0]}`).join('\n'))
         })
     })
-})([((text) => text.charAt(0).toUpperCase() + text.slice(1))(prompt('What box do you want to open? (e.g. "Space") The limited boxes will not open if they are not avaible')) , Number(prompt('How many do you want to open?'))])
+})([((text) => text.charAt(0).toUpperCase() + text.slice(1))(prompt('What box do you want to open? (e.g. "Space") The limited boxes will not open if they are not available')) , Number(prompt('How many boxes do you want to open?'))])
