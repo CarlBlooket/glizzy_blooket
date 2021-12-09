@@ -1,6 +1,6 @@
-**Discord server: https://discord.gg/K5xUbuDqmG**
+## **Discord server: https://discord.gg/K5xUbuDqmG**
 
-**These bookmarklets are also on: https://schoolcheats.net/blooket**
+## **These bookmarklets are also on: https://schoolcheats.net/blooket**
 
 # crazy-kingdom
 
