@@ -1,4 +1,4 @@
-## **Discord server: https://discord.gg/K5xUbuDqmG**
+## **Discord server:  https://discord.gg/EY5pVruG**
 
 ## **These bookmarklets are also on: https://schoolcheats.net/blooket**
 
