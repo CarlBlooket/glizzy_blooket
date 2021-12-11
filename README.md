@@ -1,4 +1,4 @@
-## **Support discord server: https://discord.gg/EY5pVruG**
+## **Support discord server: https://discord.gg/RTseVPF8MA**
 
 ## **All of the hacks are located at https://schoolcheats.net/blooket**
 
