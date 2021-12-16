@@ -3,7 +3,7 @@ async function getName(authToken) {
     const data = await response.json();
 
     return data.name;
-}
+};
 
 async function getBlooks(blooketName) {
     const response = await fetch('https://api.blooket.com/api/users/blooks?name=' + blooketName, {
@@ -16,7 +16,7 @@ async function getBlooks(blooketName) {
     const data = await response.json();
 
     return data;
-}
+};
 
 async function sellDupeBlooks() {
     const myToken = localStorage.token.split('JWT ')[1];
@@ -36,17 +36,16 @@ async function sellDupeBlooks() {
                 blook: blook,
                 name: blooketName,
                 numSold: val
-            })
+            }),
         });
     }
 
     if (x.length > 0) {
         alert('Results:\n' + x.map(x => `    ${x[1]} ${x[0]}`).join('\n'));
-    }
-    else {
-        alert("No duplicate Blooks found.")
-    }
-    
-}
+    } else {
+        alert("No duplicate Blooks found.");
+    };
+
+};
 
 sellDupeBlooks();
