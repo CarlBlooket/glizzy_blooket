@@ -40,7 +40,13 @@ async function sellDupeBlooks() {
         });
     }
 
-    alert('Results:\n' + x.map(x => `    ${x[1]} ${x[0]}`).join('\n'));
+    if (x.length > 0) {
+        alert('Results:\n' + x.map(x => `    ${x[1]} ${x[0]}`).join('\n'));
+    }
+    else {
+        alert("No duplicate Blooks found.")
+    }
+    
 }
 
 sellDupeBlooks();
