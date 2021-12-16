@@ -1,6 +1,6 @@
 const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
 (async (args) => {
-    let [box, amount] = args
+    let [box, amount] = args;
     var name = JSON.parse(atob(localStorage.token.split('.')[1])).name,
         tokens = await fetch("https://api.blooket.com/api/users/tokens?name=" + name, {
             headers: {
@@ -23,11 +23,11 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
     let interval = new Promise((resolve) => {
         inv = [],
             end = (a) => {
-                clearInterval(a)
-                resolve({ fail: false, blooks: inv })
+                clearInterval(a);
+                resolve({ fail: false, blooks: inv });
             };
         let Interval = setInterval(() => {
-            if (!opens) return end(Interval)
+            if (!opens) return end(Interval);
             fetch("https://api.blooket.com/api/users/unlockblook", {
                 headers: {
                     authorization: localStorage.token,
@@ -40,9 +40,9 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
                 if (response.status != 200) return end(Interval);
                 else inv.push(await response.json());
                 opens--;
-                if (!opens) return end(Interval)
+                if (!opens) return end(Interval);
             }).catch((e) => end(Interval));
-        }, 128)
+        }, 128);
     });
     interval.then(async (x) => {
         if (x.fail) return alert("You don't have enough coins to open this box!");
@@ -145,10 +145,10 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
 
             for (const [blook, quant] of Object.entries(count)) {
                 totalValue += (blookValues[blook]) * quant;
-            };
+            }
             
             alert('Value of Blooks Unlocked: ' + totalValue);
         });
     });
 
-})([((text) => text.charAt(0).toUpperCase() + text.slice(1))(prompt('What box do you want to open? (e.g. "Space") The limited boxes will not open if they are not available')), Number(prompt('How many boxes do you want to open?'))])
+})([((text) => text.charAt(0).toUpperCase() + text.slice(1))(prompt('What box do you want to open? (e.g. "Space") The limited boxes will not open if they are not available')), Number(prompt('How many boxes do you want to open?'))]);
