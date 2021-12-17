@@ -10,3 +10,5 @@ This cheat only works in fishing frenzy game mode!
 
 New scripts are at:
 https://schoolcheats.net/blooket
+
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [setWeight.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/fishing-frenzy/setWeight.js)

@@ -11,7 +11,11 @@ This cheat only works in factory game mode!
 New scripts are at:
 https://schoolcheats.net/blooket
 
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [getCash.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/factory/getCash.js)
+
 # getMegaBot.js
 
 New scripts are at:
 https://schoolcheats.net/blooket
+
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [getMegaBot.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/factory/getMegaBot.js)
