@@ -18,25 +18,25 @@ if https://schoolcheats.net/ is blocked for you. Get the script from the file [C
 New scripts are at:
 https://schoolcheats.net/blooket
 
-if https://schoolcheats.net/ is blocked for you. Get the script from the file [addTokens.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/MaxResources.js)
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [MaxResources.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/MaxResources.js)
 
 # NoTaxes.js
 
 New scripts are at:
 https://schoolcheats.net/blooket
 
-if https://schoolcheats.net/ is blocked for you. Get the script from the file [addTokens.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/NoTaxes.js.js)
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [NoTaxes.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/NoTaxes.js.js)
 
 # SetGuests.js
 
 New scripts are at:
 https://schoolcheats.net/blooket
 
-if https://schoolcheats.net/ is blocked for you. Get the script from the file [addTokens.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/SetGuests.js)
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [SetGuests.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/SetGuests.js)
 
 # SkipGuests.js
 
 New scripts are at:
 https://schoolcheats.net/blooket
 
-if https://schoolcheats.net/ is blocked for you. Get the script from the file [addTokens.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/SkipGuests.js)
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [SkipGuests.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/SkipGuests.js)
