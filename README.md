@@ -1,12 +1,10 @@
-# **Support discord server: https://discord.gg/RTseVPF8MA**
-
-## **All of the hacks are located at https://schoolcheats.net/blooket**
-
 # Blooket Hacks
 
 All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixzzy/blooket-hack/issues).
 
 If you are a programmer and want to make your own hacks for blooket make sure to check out the [blooket wrapper](https://github.com/glixzzy/blooket-wrapper).
+
+**blooket hacks are located at https://schoolcheats.net/blooket**
 
 ## How to use
 
