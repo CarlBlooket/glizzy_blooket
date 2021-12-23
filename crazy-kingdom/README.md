@@ -1,42 +1,40 @@
 # **Support discord server: https://discord.gg/RTseVPF8MA**
 
-## **These bookmarklets are also on: https://schoolcheats.net/blooket**
-
 # crazy-kingdom
 
 This cheat only works in crazy kingdom gamemode!
 
 # ChoiceESP.js
 
+### Get the script from the file [ChoiceESP.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/ChoiceESP.js)
+
 New scripts are at:
 https://schoolcheats.net/blooket
-
-if https://schoolcheats.net/ is blocked for you. Get the script from the file [ChoiceESP.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/ChoiceESP.js)
 
 # MaxResources.js
 
+### Get the script from the file [MaxResources.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/MaxResources.js)
+
 New scripts are at:
 https://schoolcheats.net/blooket
-
-if https://schoolcheats.net/ is blocked for you. Get the script from the file [MaxResources.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/MaxResources.js)
 
 # NoTaxes.js
 
+### Get the script from the file [NoTaxes.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/NoTaxes.js)
+
 New scripts are at:
 https://schoolcheats.net/blooket
-
-if https://schoolcheats.net/ is blocked for you. Get the script from the file [NoTaxes.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/NoTaxes.js.js)
 
 # SetGuests.js
 
+### Get the script from the file [SetGuests.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/SetGuests.js)
+
 New scripts are at:
 https://schoolcheats.net/blooket
-
-if https://schoolcheats.net/ is blocked for you. Get the script from the file [SetGuests.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/SetGuests.js)
 
 # SkipGuests.js
 
+### Get the script from the file [SkipGuests.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/SkipGuests.js)
+
 New scripts are at:
 https://schoolcheats.net/blooket
-
-if https://schoolcheats.net/ is blocked for you. Get the script from the file [SkipGuests.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/SkipGuests.js)
