@@ -13,6 +13,10 @@ note: **This cheat also includes adding max xp for the day**
 New scripts are at:
 https://schoolcheats.net/blooket
 
+# floodGame.js
+
+### Get the script from the file [addTokens.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/floodGame.js)
+
 # bypassRandomName.js
 
 ### Get the script from the file [bypassRandomName.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/bypassRandomName.js)
