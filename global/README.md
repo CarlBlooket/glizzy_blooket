@@ -15,7 +15,7 @@ https://schoolcheats.net/blooket
 
 # floodGame.js
 
-### Get the script from the file [addTokens.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/floodGame.js)
+### Get the script from the file [floodGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/floodGame.js)
 
 # bypassRandomName.js
 
