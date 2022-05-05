@@ -1,6 +1,6 @@
-**Discord server: https://discord.gg/K5xUbuDqmG**
+# **Support discord server: https://discord.gg/RTseVPF8MA**
 
-**These bookmarklets are also on: https://schoolcheats.net/blooket**
+## **These bookmarklets are also on: https://schoolcheats.net/blooket**
 
 # global
 
@@ -10,42 +10,42 @@ All these cheats in the folder can be used outside games
 
 note: **This cheat also includes adding max xp for the day**
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nbG9iYWxBZGRUb2tlbnMuanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
-```
+New scripts are at:
+https://schoolcheats.net/blooket
+
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [addTokens.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/addTokens.js)
 
 # bypassRandomName.js
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nbG9iYWxCeXBhc3NOYW1lLmpzb24=')).then(res => res.text()).then(t => eval(JSON.parse(t)));
-```
+New scripts are at:
+https://schoolcheats.net/blooket
+
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [bypassRandomName.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/bypassRandomName.js)
 
 # getAllBlooksInGame.js
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nbG9iYWxHZXRBbGxCbG9va3MuanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
-```
+New scripts are at:
+https://schoolcheats.net/blooket
+
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [getAllBlooksInGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooksInGame.js)
 
 # getEveryAnswerCorrect.js
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nbG9iYWxFdmVyeUFuc3dlckNvcnJlY3QuanNvbg==')).then(res => res.text()).then(t => eval(JSON.parse(t)));
-```
+New scripts are at:
+https://schoolcheats.net/blooket
+
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [getEveryAnswerCorrect.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getEveryAnswerCorrect.js)
 
 # spamOpenBoxes.js
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nbG9iYWxTcGFtT3BlbkJveGVzLmpzb24=')).then(res => res.text()).then(t => eval(JSON.parse(t)));
-```
+New scripts are at:
+https://schoolcheats.net/blooket
+
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [spamOpenBoxes.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOpenBoxes.js)
 
 # sellDupeBlooks.js
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9zY2hvb2wtY2hlYXRzLTFhNGVlLWRlZmF1bHQtcnRkYi5maXJlYmFzZWlvLmNvbS9nbG9iYWxTZWxsRHVwZUJsb29rcy5qc29u')).then(res => res.text()).then(t => eval(JSON.parse(t)));
-```
+New scripts are at:
+https://schoolcheats.net/blooket
+
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [sellDupeBlooks.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/sellDupeBlooks.js)
